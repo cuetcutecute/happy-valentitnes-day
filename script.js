@@ -76,7 +76,7 @@ noBtn.addEventListener("click", () => {
 
     title.textContent = "bleee! Happy Valentine's Day!♡";
 
-    catImg.src = "picture/dance.gif";
+    catImg.src = "dance.gif";
 
     document.querySelector(".letter-window").classList.add("final");
 
