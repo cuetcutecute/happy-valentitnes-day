@@ -72,7 +72,7 @@ yesBtn.addEventListener("click", () => {
 noBtn.addEventListener("click", () => {
 
     // fun message displayed in letter
-    finalText.textContent = "you clicked yes, I saw it 😏\n\nWritting a New Chapter: U n I verse Book.";
+    finalText.textContent = "you clicked yes, I saw it 😏\n\nTake care always, doing your best is more than enough!🤩";
 
     title.textContent = "bleee! Happy Valentine's Day!♡";
 
